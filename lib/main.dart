@@ -19,8 +19,8 @@ class _MyAppState extends State<MyApp> {
   final serverText = TextEditingController();
   final roomText = TextEditingController(text: "topicos");
   final subjectText = TextEditingController(text: "Clase");
-  final nameText = TextEditingController(text: "Yordi");
-  final emailText = TextEditingController(text: "yordi@email.com");
+  final nameText = TextEditingController(text: "sin nombre");
+  final emailText = TextEditingController(text: "ejemplo@email.com");
   var isAudioOnly = true;
   var isAudioMuted = true;
   var isVideoMuted = true;
